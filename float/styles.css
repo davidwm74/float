@@ -1,0 +1,105 @@
+
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	width: 96%;                      
+	max-width: 960px;
+	background-color: lightblue;
+	margin: 15px auto;
+	padding: 15px 0;
+	border: 5px double green;
+}
+
+section, aside {
+	margin-bottom: 1em;
+}
+p {
+	font-size: 100%;
+	padding-bottom: .5em;
+	line-height: 130%;
+}
+a:hover, a:focus {
+	color: green;
+}
+
+header {
+	width: 100%;                         
+	padding-bottom: 2em;
+	border-bottom: 5px double Green;
+	align-content: center;
+}
+header h2 {
+	font-size: 220%;
+	color: green;
+	margin-left: 17.5%;             
+	margin-bottom: .25em;
+	
+}
+header h3 {
+	font-size: 130%;
+	color: gold;
+	margin-left: 17.5%;
+}
+              
+
+
+section {
+	width: 50%;                    
+	padding: 2.5% 2.5% 0 2.5%;      
+	float: left;
+}
+section img {
+	max-width: 100%;
+		margin-bottom: .5em;
+}
+section ul {
+	margin-top: 0;
+	margin-bottom: 1em;
+}
+section li {
+	font-size: 95%;
+	padding-bottom: .5em;
+}
+section h1 {
+	font-size: 170%;
+	margin-bottom: .5em;
+}
+section h2 {
+	font-size: 130%;
+	margin-bottom: .5em;
+}
+
+aside {
+	width: 37.5%;               
+	float: left;
+	padding: 2.5%;              
+	margin-right: 2.5%;       
+}
+aside h2 {
+	font-size: 220%;
+	padding-bottom: .5em;
+}
+aside p {
+	margin-bottom: .5em;
+}
+aside ul {
+	margin-top: 0;
+	margin-bottom: 1.5em;
+}
+aside li {
+	font-size: 95%;
+	padding-bottom: .35em;
+}
+
+footer {
+	clear: both;
+	width: 100%;                    
+	border-top: 4px solid green;
+	padding-top: .7em;
+}
+footer p {
+	font-size: 80%;
+	text-align: right;
+	margin-right: 2.5%;        
+}
